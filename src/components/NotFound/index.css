@@ -1,0 +1,10 @@
+.not-found-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-not-found {
+  width: 500px;
+}
